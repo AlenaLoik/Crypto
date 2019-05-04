@@ -48,6 +48,11 @@ width: 67px;
 left: 1179px;
 }
 .signup {
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
 position: absolute;
 width: 90px;
 height: 30px;
@@ -56,6 +61,7 @@ top: 56px;
 background: #FDFFFC;
 border-radius: 4px;
 color: #1B264B;	
+
 }
 .first-name-article {
 position: absolute;
