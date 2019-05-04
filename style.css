@@ -344,20 +344,35 @@ cursor: pointer;
 }
 .mail-form {
 display: flex;
-}
-.mail-enter {
-height: 41px;
 background: #FDFFFC;
-border-top-left-radius: 3px;
-border-bottom-left-radius: 3px;
+border-radius: 3px;
+height: 48px;
+}
+
+.mail-enter {
+height: 48px;
+width: 190px;
+background: #FDFFFC;
 text-align: center;
+font-family: Avenir;
+font-size: 14px;
+line-height: 16px;
+color: rgba(62, 61, 61, 0.5);
+border-width: 0px;
+border-radius: 3px;
+padding: 0px;
+
 }
 .send-botton {
 width: 80px;
 height: 48px;
 background: #1768AC;
-border-top-right-radius: 3px;
-border-bottom-right-radius: 3px;
+border-radius: 3px;
+border-width: 0px;
+font-family: Avenir;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
 }
 #last-footer-block{
 display: flex;
