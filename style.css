@@ -104,7 +104,7 @@ font-size: 24px;
 line-height: 33px;
 color: #333333;
 }
-#main-context{
+.main-context{
 position: absolute;
 width: 1181px;
 height: 170px;
@@ -122,7 +122,7 @@ color: #333333;
 
 
 /*second block*/
-#point-bg-first {
+.point-bg-first {
 position: absolute;
 left: 101px;
 top: 1668px;	
@@ -185,7 +185,7 @@ top: 58.19%;
 bottom: 23.97%;
 background: #FAFAFA;;
 }
-#point-bg-second {
+.point-bg-second {
 position: absolute;
 left: 118px;
 top: 2179px;	
@@ -234,7 +234,7 @@ top: 71.81%;
 }
 
 /*fourth bolock*/
-#point-bg-third {
+.point-bg-third {
 position: absolute;
 left: 555px;
 top: 2933px;
@@ -339,7 +339,7 @@ cursor: pointer;
 .mail-form {
 display: flex;
 }
-#mail-enter {
+.mail-enter {
 height: 41px;
 background: #FDFFFC;
 border-top-left-radius: 3px;
@@ -366,7 +366,7 @@ justify-content: flex-start;
 display: flex;
 justify-content: flex-end;	
 }
-#about-us {
+.about-us {
 font-family: Avenir;
 font-size: 16px;
 line-height: 19px;
@@ -374,14 +374,14 @@ color: rgba(255, 255, 255, 0.7);
 cursor: pointer;
 margin-right: 30px;
 }
-#contact-us {
+.contact-us {
 font-family: Avenir;
 font-size: 16px;
 line-height: 19px;
 color: rgba(255, 255, 255, 0.7);
 cursor: pointer;
 }
-#faq {
+.faq {
 font-family: Avenir;
 font-size: 18px;
 line-height: 21px;
@@ -389,7 +389,7 @@ color: rgba(255, 255, 255, 0.7);
 cursor: pointer;
 margin-right: 30px;
 }
-#back-to-top {
+.back-to-top {
 font-family: Avenir;
 font-size: 18px;
 line-height: 21px;
